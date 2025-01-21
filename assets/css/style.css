@@ -694,7 +694,7 @@ CSS de áreas especificas
 /*área do mapa*/
 
 .section-map{
-    background-image: url('../images/mapa.jpg');
+    background-image: url('../images//mapa.jpg');
     background-size: cover; /*para pegar todo espaco disponivel*/
     background-position: center;
     padding-top: 30px;
